@@ -5,3 +5,4 @@ Now you're ready.
 Open command prompt and say cd downloads\main.py
 then say python main.py
 (I use python 3.8.3)
+GC SPAMMING PATCHED - NO NEED FOR THIS. 1/3/22
